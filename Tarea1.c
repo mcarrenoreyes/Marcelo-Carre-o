@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 int main(){
 	
@@ -46,7 +47,7 @@ int main(){
 			}
 			
 			arreglo[i]=r;
-			printf("%i: %i \n", i, arreglo[i]);
+			printf("%i \n", arreglo[i]);
 
 			}
 
